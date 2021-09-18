@@ -1,5 +1,8 @@
 # Criando um Jogo da Velha com o Angular
-![Screenshot_1](https://user-images.githubusercontent.com/72028645/133897758-bbd15028-202c-45b3-b885-8bf15cde4861.png) <br>
+## Tela inicial
+![Screenshot_1](https://user-images.githubusercontent.com/72028645/133897758-bbd15028-202c-45b3-b885-8bf15cde4861.png) 
+
+## Hora de jogar
 ![2](https://user-images.githubusercontent.com/72028645/133897733-fb030235-48fb-4afc-ad6a-862b0e747359.png)
 
 ## Requisitos
